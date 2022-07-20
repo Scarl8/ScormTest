@@ -1,0 +1,60 @@
+<?xml version="1.0"?><!--SCORM Imanifest-->
+<lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+    <general>
+        <title>
+            <langstring></langstring>
+        </title>
+        <catalogentry>
+            <catalog></catalog>
+            <entry>
+                <langstring>300210</langstring>
+            </entry>
+        </catalogentry>
+        <language>en</language>
+        <description>
+            <langstring></langstring>
+        </description>
+    </general>
+    <lifecycle>
+        <version>
+            <langstring>1</langstring>
+        </version>
+        <status>
+            <source>
+                <langstring xml:lang="x-none">LOMv1.0</langstring>
+            </source>
+            <value>
+                <langstring xml:lang="x-none">Final</langstring>
+            </value>
+        </status>
+    </lifecycle>
+    <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+    </metametadata>
+    <technical>
+        <format>text/html</format>
+        <format>audio/x-wav</format>
+        <format>video/x-ms-wmv</format>
+        <format>application/pdf</format>
+        <location>indexAPI.html</location>
+    </technical>
+    <rights>
+        <cost>
+            <source>
+                <langstring xml:lang="x-none">LOMv1.0</langstring>
+            </source>
+            <value>
+                <langstring xml:lang="x-none">yes</langstring>
+            </value>
+        </cost>
+        <copyrightandotherrestrictions>
+            <source>
+                <langstring xml:lang="x-none">LOMv1.0</langstring>
+            </source>
+            <value>
+                <langstring xml:lang="x-none">yes</langstring>
+            </value>
+        </copyrightandotherrestrictions>
+    </rights>
+</lom>
